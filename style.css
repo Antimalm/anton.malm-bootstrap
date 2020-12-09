@@ -1,0 +1,22 @@
+*{
+    overflow-x:hidden;
+}
+
+.card {
+    width: 18rem;
+    background-color:grey;
+    height:200px;
+}
+.card {
+    margin-top:10%;
+    right:auto;
+}
+.btn-primary {
+    background-color:yellow;
+}
+
+
+.anton-h2{
+color:rgb(4, 16, 20);
+
+}
